@@ -2,3 +2,5 @@
 /save_data
 /mlartifacts
 mlflow.db
+/images
+/models
